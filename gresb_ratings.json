@@ -1,0 +1,26 @@
+[
+  {
+    "company": "GDS GROUP",
+    "regions": "China, Hong Kong, Malaysia, Indonesia",
+    "gresb_score": null,
+    "gresb_stars": null,
+    "gresb_year": null,
+    "gresb_ranking": null,
+    "other_ratings": [],
+    "notes": "MSCI ESG upgraded to A rating in 2024, Moody's NZA-2 rating",
+    "source_url": null,
+    "scrape_timestamp": "2025-09-08 14:31:34"
+  },
+  {
+    "company": "AirTrunk Group",
+    "regions": "Australia, Japan",
+    "gresb_score": null,
+    "gresb_stars": null,
+    "gresb_year": null,
+    "gresb_ranking": null,
+    "other_ratings": [],
+    "notes": "GRESB 5-star rating, 97/100 score, 1st in sector in 2023",
+    "source_url": null,
+    "scrape_timestamp": "2025-09-08 14:31:49"
+  }
+]
